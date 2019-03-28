@@ -4,7 +4,7 @@
 ## What is "996"?
 996 working, ICU waiting.
 
-A "996" work schedule refers to an unofficial work schedule (9 am - 9 pm, 6 days a week) that has been gaining more popularity. 
+A "996" work schedule refers to an unofficial work schedule (9 am - 9 pm, 6 working days per week) that has become a new normal for Chinese workplace, such illegal schedule is now highly worshiped by more and more chinese companies and caused quite a few Sudden cardiac death cases in office, such office hour schedulre is absolutely both illegal and imoral, we here create this repository to state our opinion and welcome people all over the world in the same status to fight and ask for our right and health. 
 Serving a company that encourages the "996" work schedule usually means work for at least 60 hours a week.
 
 Quoted from [Labor Law of the People's Republic of China](http://www.china.org.cn/living_in_china/abc/2009-07/15/content_18140508.htm)
